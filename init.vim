@@ -8,6 +8,7 @@ nnoremap <C-k> <C-u>
 
 call plug#begin('~/.vim/plugged')
 
+Plug 'itchyny/lightline.vim'
 Plug 'scrooloose/nerdcommenter'
 Plug 'ajh17/VimCompletesMe'
 Plug 'kien/ctrlp.vim'
