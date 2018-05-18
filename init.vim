@@ -4,7 +4,6 @@ set mouse=a
 set tabstop=4
 set shiftwidth=4
 set softtabstop=4
-nnoremap <C-k> <C-u>
 
 call plug#begin('~/.vim/plugged')
 
